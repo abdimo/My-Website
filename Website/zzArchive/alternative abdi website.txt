@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">     
+<head>
+     <title>ABDiNDUSTRiES</title>
+	 <meta charset="UTF-8">
+	 <style media="screen" type="text/css">
+ body {
+     background-color: white;
+     font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+     background-image: url("a.png");
+ }
+ h1  {
+     background-color: lightblue;
+	 text-align: center;
+}
+ section  {
+     text-align: center;
+     background-color: lightgreen;
+}
+ p1  {
+     background-color: lightgreen;
+}
+ footer  {
+     }	
+img  {
+     background-image: url("abdindustries.png");
+     background-repeat: no-repeat;
+     background-position: bottom;
+     margin-top: 50px;
+	 margin-bottom:100
+	 }
+
+</style>
+</head>
+<body>
+     <h1> Hello and welcome to my website</h1>
+     
+	     <p1>Hello. My name is Abdi and this is my website.</p1>
+	 </body>
+<footer>
+	 <img src="abdindustries.png" alt ="ABDiNDUSTRiES" HEIGHT="475" WIDTH="1000"   >
+	 <p>Contact me at : <a href="mailto:amohamoud245@gmail.com">
+     amohamoud245@gmail.com</a>.</p>
+	 <p>Made by ABDiNDUSTRiES</p>
+	 </footer>
+	 </html>
